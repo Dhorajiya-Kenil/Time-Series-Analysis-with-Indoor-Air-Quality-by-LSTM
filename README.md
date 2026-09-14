@@ -69,7 +69,7 @@ TSA/
 ├── notebooks/
 │   ├── EDA.ipynb
 │   ├── LSTM 
-├── LSTM_Results/      # Saved Transformer artifacts
+├── LSTM_Results/      
 ├── dataPipeline_LSTM_co2.py
 ├── dataPipeline_LSTM_old.py
 ├── requirement.yml
