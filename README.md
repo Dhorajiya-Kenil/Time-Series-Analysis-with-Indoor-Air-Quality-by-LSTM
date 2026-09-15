@@ -66,7 +66,10 @@ TSA/
 ├── notebooks/
 │   ├── EDA.ipynb
 │   ├── LSTM 
-├── LSTM_Results/      
+├── LSTM_Results/
+│   ├── LSTM_With_LR_0.0001   # All results With Image 
+│   ├── LSTM_With_LR_0.0005   # All results With Image 
+│   ├── Results_in_Matrix     # Results In Numerical_Values 
 ├── dataPipeline_LSTM_co2.py
 ├── dataPipeline_LSTM_old.py
 ├── requirement.yml
