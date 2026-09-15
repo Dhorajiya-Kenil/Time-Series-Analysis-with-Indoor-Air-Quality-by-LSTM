@@ -61,7 +61,6 @@ The default target is `scd41_co2`.
 TSA/
 ├── data/
 │   ├── indoorAir2.csv
-│   └── AIQStationsDocumentation 2.pdf
 ├── src/
 │   ├── LSTM/                 # Modular LSTM pipeline
 ├── notebooks/
