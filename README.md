@@ -37,8 +37,6 @@ It contains approximately **1.9 million observations** from multiple indoor moni
 | SFA30 | temperature, humidity, formaldehyde (HCO) |
 | Metadata | record ID, station ID, station name, timestamp |
 
-The file `data/AIQStationsDocumentation 2.pdf` contains supporting station documentation.
-
 ### Default model features
 
 The current LSTM for CO2 pipelines use:
